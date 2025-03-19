@@ -37,6 +37,7 @@ printf("Área: %f\n", Area);
 printf("Pib: %f\n", Pib);
 
 printf("Números de Pontos Turisticos: %d\n", pontoturisticos);
+printf ("Novo commit");
 
 return 0;
 
