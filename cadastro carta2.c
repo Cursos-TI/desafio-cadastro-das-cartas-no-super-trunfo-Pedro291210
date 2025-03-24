@@ -4,6 +4,7 @@ int main (){
 
     // Desafio Super Trunfo
 
+    //Declarando variaveis
 
 char Estado = 'R';
 
