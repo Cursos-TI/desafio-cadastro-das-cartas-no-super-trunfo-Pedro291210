@@ -39,7 +39,6 @@ printf("Pib: %f\n", Pib1);
 
 printf("Números de Pontos Turisticos: %d\n", pontoturisticos1);
 
-
 return 0;
 
 
