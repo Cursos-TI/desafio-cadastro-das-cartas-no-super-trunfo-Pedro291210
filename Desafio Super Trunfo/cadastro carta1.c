@@ -1,7 +1,7 @@
 # include <stdio.h>
 int main (){
 
-//Desafio Super Trunfo
+//Desafio Super Trunfo 
 
 printf ("Carta: 01\n");
 
